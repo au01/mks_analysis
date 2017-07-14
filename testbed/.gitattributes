@@ -1,0 +1,6 @@
+training_times.npy filter=lfs diff=lfs merge=lfs -text
+test_data_input.npy filter=lfs diff=lfs merge=lfs -text
+test.npy filter=lfs diff=lfs merge=lfs -text
+training_data_input.npy filter=lfs diff=lfs merge=lfs -text
+training_data.npy filter=lfs diff=lfs merge=lfs -text
+training_errors.npy filter=lfs diff=lfs merge=lfs -text
